@@ -1,0 +1,5 @@
+C:\Users\Roger Paucar\Documents\Visual Studio 2013\Projects\AsignacionDePCs\WCF_AsignacionPCs\bin\WCF_AsignacionPCs.dll.config
+C:\Users\Roger Paucar\Documents\Visual Studio 2013\Projects\AsignacionDePCs\WCF_AsignacionPCs\bin\WCF_AsignacionPCs.dll
+C:\Users\Roger Paucar\Documents\Visual Studio 2013\Projects\AsignacionDePCs\WCF_AsignacionPCs\bin\WCF_AsignacionPCs.pdb
+C:\Users\Roger Paucar\Documents\Visual Studio 2013\Projects\AsignacionDePCs\WCF_AsignacionPCs\obj\Debug\WCF_AsignacionPCs.dll
+C:\Users\Roger Paucar\Documents\Visual Studio 2013\Projects\AsignacionDePCs\WCF_AsignacionPCs\obj\Debug\WCF_AsignacionPCs.pdb
